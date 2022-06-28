@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.email-variables {
+  background: #d1e3d1;
+  padding: 4px;
+  border-radius: 2px;
+}
